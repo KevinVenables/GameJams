@@ -1,0 +1,7 @@
+sources for sounds
+party sound: 
+http://www.freesound.org/people/audiosmedia/sounds/170583/
+basic hit sound:
+http://opengameart.org/content/37-hitspunches
+spring sound:
+http://opengameart.org/content/vibrating-plastic
